@@ -1,0 +1,3 @@
+META-INF/spring-configuration-metadata.json
+com/taoge/autoconfigure/FirstModuleAutoConfiguration.class
+com/taoge/autoconfigure/FirstProperties.class

@@ -1,0 +1,23 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.taoge.autoconfigure.FirstProperties",
+      "name": "my.test",
+      "type": "com.taoge.autoconfigure.FirstProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.taoge.autoconfigure.FirstProperties",
+      "name": "my.test.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.taoge.autoconfigure.FirstProperties",
+      "defaultValue": false,
+      "name": "my.test.open-test-service-back",
+      "type": "java.lang.Boolean"
+    }
+  ]
+}
